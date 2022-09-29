@@ -1,0 +1,24 @@
+{
+  "name": "talk-ative",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ml0dy/ChatApp-MERN.git"
+  },
+  "author": "Jakub Wosiak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ml0dy/ChatApp-MERN/issues"
+  },
+  "homepage": "https://github.com/Ml0dy/ChatApp-MERN#readme",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.20"
+  }
+}
